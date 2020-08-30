@@ -2,6 +2,14 @@
 ## Description:
 This program was made in python. It's gets datas about financial market used "yahoo finance"
 
+## Prerequisite
+* Python 3.8.3
+
+## Install:
+```
+	pip install yfinance --upgrade --no-cache-dir
+```
+
 ## To run it:
 ```
 	python yahoo.py
@@ -14,3 +22,7 @@ This program was made in python. It's gets datas about financial market used "ya
 ```
 	pip3 install lxml
 ```
+
+## 
+[GitHub](http://github.com)
+https://pypi.org/project/yfinance/
