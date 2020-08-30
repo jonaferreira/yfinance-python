@@ -26,3 +26,5 @@ def yfinancetut(tickersymbol):
 yfinancetut('TSLA')
 print('')
 yfinancetut('VOO')
+print('')
+yfinancetut('MELI')
